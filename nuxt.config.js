@@ -1,4 +1,5 @@
 export default {
+  ssr: true,
   mode: 'universal',
   /*
    ** Headers of the page
